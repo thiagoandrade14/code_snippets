@@ -1,6 +1,6 @@
 ## Description ##
 The purpose of this repository is to provide sample code.
-It code snippets of very small projects I have worked on in my classes and that would deserve their own repo.
+These are code snippets from very small projects I have worked on in my classes and that would otherwise not deserve their own repo.
 
 ## Functionality ##
 Each file has its own independent functionality.
